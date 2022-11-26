@@ -1,0 +1,1 @@
+Created the file using the command writeFileSyncCreated the file using the command writeFileSync
